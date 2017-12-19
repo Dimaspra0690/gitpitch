@@ -1,6 +1,6 @@
 # TEST Flux Design 
 
-An application architecture for React
+COBA GitPitch
 
 ---
 
