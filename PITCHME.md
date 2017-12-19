@@ -3,9 +3,6 @@
 ---
 
 ## 1. Pendahuluan
-
----
-
 +++
 ### 1.1 Tujuan Pembuatan Dokumen Manual Book
 +++
