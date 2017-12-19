@@ -1,19 +1,20 @@
 ## SOP ONLINE
 
 ---
-+++
-## Daftar Isi
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
-+++
----
 
 ## 1. Pendahuluan
 
+---
+
++++
 ### 1.1 Tujuan Pembuatan Dokumen Manual Book
++++
 Dokumen *User Manual* Apliksai Sop Online ini dibuat untuk tujuan sebagai berikut:
++++
 1. Menggambarkan dan menjelaskan penggunaan aplikasi Sop Online untuk administrator dan *user*.
++++
 2. Sebagai panduan konfigurasi dan penggunaan aplikasi Sop Online.
+
 
 ### 1.2 Deskripsi Umum Sistem
 1. **Deskripsi Umum Aplikasi**
