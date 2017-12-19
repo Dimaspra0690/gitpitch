@@ -8,10 +8,10 @@
 +++
 Dokumen *User Manual* Apliksai Sop Online ini dibuat untuk tujuan sebagai berikut:
 +++
-1. Menggambarkan dan menjelaskan penggunaan aplikasi Sop Online untuk administrator dan *user*.
-+++
-2. Sebagai panduan konfigurasi dan penggunaan aplikasi Sop Online.
+1. Menggambarkan dan menjelaskan penggunaan aplikasi Sop Online untuk administrator dan *user*.|
+2. Sebagai panduan konfigurasi dan penggunaan aplikasi Sop Online.|
 
+---
 
 ### 1.2 Deskripsi Umum Sistem
 1. **Deskripsi Umum Aplikasi**
