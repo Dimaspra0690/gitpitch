@@ -2,12 +2,12 @@
   color: #e49436;
 }
 
-.gray {
-  color: gray;
+.blue {
+  color: #2c9cb2;
 }
 
 span.byline, span.aside {
-  color: #2c9cb2;
+  color: #bbb;
 }
 
 span.byline {
