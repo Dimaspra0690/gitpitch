@@ -10,47 +10,26 @@ Sop Online *(Standart Operasional Prosedur)* adalah aplikasi yang berbasis web y
 +++
 ### TUJUAN
 +++
-
 Dokumen *User Manual* Aplikasi Sop Online ini dibuat untuk :
 
-+++
 - Menggambarkan dan menjelaskan penggunaan aplikasi Sop Online untuk administrator dan user.|
 - Sebagai panduan konfigurasi dan penggunaan aplikasi Sop Online.|
 
 ---
 
-### 2. Menu dan Cara Penggunaan
-### 2.1 Struktur Menu
-Adapun struktur menu pada aplikasi Sop Online adalah sebagai berikut:
-1. Menu *Dashboard*
-2. Menu *OPD*
-3. Menu *SOP Online*
-4. Menu *Workflow*
-    - *Workflows*
-    - *State List*
-    - *Transition List*
-    - *Workflow Guard*
-    - *Workflow Attachment*
-5. Menu *Users & Permission*
-    - *Permission*
-    - *Role*
+### Penggunaan Aplikasi Sop Online
 
-### 2.2 Penggunaan Aplikasi Sop Online
-Pada bagian ini akan dijelaskan mengenai tata cara memasukan data sebagai data sumber melalui alamat situs yang telah disediakan.
-
-#### 2.2.1 Cara Membuka Situs
 Untuk memulai akses terhadap aplikasi *Standart Operation Prosedur Online* **(Sop Online)** ini:
-1. Buka melalui *web browser* (IE, Mozila Firefox atau yang lainnya) dengan alamat url sebagai berikut : http://sop-online-01.dev.bantenprov.go.id/
-2. Kemudian tekan **Enter** pada tombol *keyboard* atau klik tombol **GO** pada browser.
-3. Akan muncul tampilan halaman depan aplikasi Sop Online sebagai berikut:
-
+- Buka melalui *web browser* (IE, Mozila Firefox atau yang lainnya) dengan alamat url sebagai berikut : http://sop-online-01.dev.bantenprov.go.id/ |
+- Kemudian tekan **Enter** pada tombol *keyboard* atau klik tombol **GO** pada browser.|
++++
 Maka pada layar akan tampak menu login situs Sop Online seperti dibawah ini:
 
-[![tampilan login](../images/manual-book/01-login.png)](../images/manual-book/01-login.png)
+[tampilan login](/assets/images/01-login.png) |
 
 Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Log in** atau tekan tombol **Enter** pada keyboard. Sehingga akan menampilkan halaman utama sebagai berikut:
 
-#### 2.2.2 Menu Dashboard
+#### 2.2.2 Menu Dashboard 
 Pada halaman *Home* ini terdapat tampilan Dashboard *You are logged in!*
 [![Dashboard Halaman Depan](../images/manual-book/02-tampilan-dashboard-depan.png)](../images/manual-book/02-tampilan-dashboard-depan.png)
 
