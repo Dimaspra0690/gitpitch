@@ -5,7 +5,7 @@
 #### 1. Pendahuluan
 +++
 #### 1.1 Tujuan Pembuatan Dokumen Manual Book
-+++
+
 Dokumen *User Manual* Apliksai Sop Online ini dibuat untuk tujuan sebagai berikut:
 +++
 - Menggambarkan dan menjelaskan penggunaan aplikasi Sop Online untuk administrator dan user.|
