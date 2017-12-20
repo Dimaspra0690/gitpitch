@@ -9,7 +9,7 @@ theme : night
 theme-override : assets/css/PITCHME.css
 logo : assets/image/banten-dev.png
 highlight : atom-one-light
-transition : concave
+transition : entrance
 published : true
 footnote : "Dimas Prasetyo"
 remote-control: true
