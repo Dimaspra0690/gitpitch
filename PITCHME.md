@@ -4,8 +4,6 @@
 
 ### PENGERTIAN SOP ONLINE
 
----
-
 Sop Online adalah aplikasi yang berbasis web yang akan dipakai oleh Pemprov Banten agar dapat mengetahui data atau informasi dari setiap Organisasi Perangkat Daerah (OPD) yang terdapat di Provinsi Banten.|
 
 +++
