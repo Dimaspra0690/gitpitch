@@ -11,7 +11,7 @@ logo : assets/image/banten-dev.png
 highlight : atom-one-light
 transition : entrance
 published : true
-footnote : "Dimas Prasetyo"
+footnote : "© 2017 All Rights Reserved."
 remote-control: true
 slide-number : true
 background : /assets/image/wallpaper.jpg
