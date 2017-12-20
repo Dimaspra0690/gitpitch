@@ -26,7 +26,7 @@ body {
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
     margin: 0 0 20px 0;
     color: #d6ac57;
-    font-family: "Indie Flower";
+    font-family: "Courier New", Impact, sans-serif;;
     font-weight: normal;
     line-height: 1.2;
     letter-spacing: -0.03em;
@@ -44,7 +44,7 @@ body {
 }
 
 .reveal .slides section .code-presenting-annotation {
-  color: white;
+  color: blue;
   background: #01155c;
   padding: 1px 15px;
   border-radius: 15px;
