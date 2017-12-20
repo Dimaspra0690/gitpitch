@@ -2,9 +2,10 @@
 
 ---
 
-#### 1. Pendahuluan
+#### Pendahuluan
 +++
-#### 1.1 Tujuan Pembuatan Dokumen Manual Book
+#### Tujuan Pembuatan Dokumen Manual Book
+
 
 Dokumen *User Manual* Apliksai Sop Online ini dibuat untuk tujuan sebagai berikut:
 
