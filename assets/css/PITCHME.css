@@ -60,6 +60,20 @@ body {
   border-radius: 15px;
 }
 
+.reveal .controls .navigate-right, .reveal .controls .navigate-right.enabled {
+    border-left-color: #2977a7;
+}
+.reveal .controls .navigate-right.enabled:hover {
+    border-left-color: #3e3e3e;
+}
+
+.reveal .controls .navigate-left, .reveal .controls .navigate-left.enabled {
+    border-right-color: #2977a7;
+}
+.reveal .controls .navigate-left.enabled:hover {
+    border-right-color: #3e3e3e;
+}
+
 #gp-logo img {
   max-height: 2em;
   max-width: none;
