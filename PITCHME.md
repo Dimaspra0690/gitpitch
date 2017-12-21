@@ -27,10 +27,11 @@ Untuk memulai akses terhadap aplikasi *Standart Operation Prosedur Online* **(So
 +++
 
 Maka pada layar akan tampak menu login situs Sop Online seperti dibawah ini:
-![tampilan login](/assets/images/01-login.png) |
+![tampilan login](/assets/images/01-login.png)
 
 +++
-Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Log in** atau tekan tombol **Enter** pada keyboard.
+Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Login** atau tekan **Enter** pada keyboard.
+
 ---
 
 
