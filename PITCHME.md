@@ -16,7 +16,6 @@ Dokumen *User Manual* Aplikasi Sop Online ini dibuat untuk :
 - Sebagai panduan konfigurasi dan penggunaan aplikasi Sop Online.|
 
 ---
-+++
 ### Penggunaan Aplikasi Sop Online
 +++
 Untuk memulai akses terhadap aplikasi *Standart Operation Prosedur Online* **(Sop Online)** ini: 
