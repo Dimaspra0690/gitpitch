@@ -27,6 +27,8 @@ Untuk memulai akses terhadap aplikasi *Standart Operation Prosedur Online* **(So
 +++
 
 Maka pada layar akan tampak menu login situs Sop Online seperti dibawah ini:|
++++
+
 ![tampilan login](/assets/images/01-login.png)
 
 +++
