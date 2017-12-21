@@ -88,7 +88,9 @@ body {
     border-top-color: #3e3e3e;
 }
 
-
+.reveal .controls .navigate-down, .reveal .controls .navigate-down.enabled {
+    border-top-color: #2977a7;
+}
 #gp-logo img {
   max-height: 2em;
   max-width: none;
