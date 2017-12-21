@@ -19,9 +19,9 @@ Dokumen *User Manual* Aplikasi Sop Online ini dibuat untuk :
 
 ### Penggunaan Aplikasi Sop Online
 
-Untuk memulai akses terhadap aplikasi *Standart Operation Prosedur Online* **(Sop Online)** ini:
-++
-- Buka melalui *web browser* (IE, Mozila Firefox atau yang lainnya) dengan alamat url sebagai berikut : | http://sop-online-01.dev.bantenprov.go.id/ |
+Untuk memulai akses terhadap aplikasi *Standart Operation Prosedur Online* **(Sop Online)** ini: |
+
+- Buka melalui *web browser* (IE, Mozila Firefox atau yang lainnya) dengan alamat url sebagai berikut : http://sop-online-01.dev.bantenprov.go.id/
 +++
 - Kemudian tekan Enter pada tombol keyboard atau klik tombol Go pada browser.|
 +++
@@ -29,7 +29,8 @@ Maka pada layar akan tampak menu login situs Sop Online seperti dibawah ini:
 
 [tampilan login](/assets/images/01-login.png) |
 
-Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Log in** atau tekan tombol **Enter** pada keyboard. Sehingga akan menampilkan halaman utama sebagai berikut:
++++
+Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Log in** atau tekan tombol **Enter** pada keyboard.
 
 #### 2.2.2 Menu Dashboard 
 Pada halaman *Home* ini terdapat tampilan Dashboard *You are logged in!*
