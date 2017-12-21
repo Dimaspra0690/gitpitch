@@ -77,6 +77,17 @@ body {
 .reveal .controls .navigate-up, .reveal .controls .navigate-up.enabled {
     border-bottom-color: #2977a7;
 }
+.reveal .controls .navigate-up.enabled:hover {
+    border-bottom-color: #3e3e3e;
+}
+
+.reveal .controls .navigate-down, .reveal .controls .navigate-down.enabled {
+    border-top-color: #2977a7;
+}
+.reveal .controls .navigate-down.enabled:hover {
+    border-top-color: #3e3e3e;
+}
+
 
 #gp-logo img {
   max-height: 2em;
