@@ -60,11 +60,14 @@ body {
   font-size: 50% !important;
 }
 
+.reveal p {
+text-align: -webkit-justify;
+}
+
 .reveal p span.slide-title {
   color: white;
   background: #0451a1;
   padding: 4px 15px;
-  text-align: -webkit-justify;
   opacity: 0.75 !important;
   border-radius: 15px;
 }
