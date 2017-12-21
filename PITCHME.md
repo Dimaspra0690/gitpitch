@@ -16,9 +16,9 @@ Dokumen *User Manual* Aplikasi Sop Online ini dibuat untuk :
 - Sebagai panduan konfigurasi dan penggunaan aplikasi Sop Online.|
 
 ---
-
++++
 ### Penggunaan Aplikasi Sop Online
-
++++
 Untuk memulai akses terhadap aplikasi *Standart Operation Prosedur Online* **(Sop Online)** ini: 
 
 - Buka melalui *web browser* (IE, Mozila Firefox atau yang lainnya) dengan alamat url sebagai berikut : http://sop-online-01.dev.bantenprov.go.id/
