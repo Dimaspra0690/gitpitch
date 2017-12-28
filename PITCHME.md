@@ -1,5 +1,5 @@
 # SOP ONLINE 
-#### (Standart Operasional Prosedur Online)
+#### (<span class="white">Standart Operasional Prosedur Online</span>)
 
 ---
 
