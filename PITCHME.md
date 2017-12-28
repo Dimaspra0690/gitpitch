@@ -62,7 +62,12 @@ Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Log
 ![tampilan dashboard](/assets/images/03-tampilan-opd.png)
 
 ---
-### Tampilan Sop Online
+## Tampilan Menu
+## <span class="white">Sop Online</span>
+<span style="font-size:0.6em; color:gray">Tampilan <span class="white">Sop Online</span></span>
+@fa[arrow-down]
+
++++
 ![tampilan sop online](/assets/images/04-tampilan-sop-online.png)
 
 ---
