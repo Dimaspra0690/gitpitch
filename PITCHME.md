@@ -3,7 +3,7 @@
 
 ---
 
-## PENGERTIAN 
+## <span class="gold">PENGERTIAN</span>.
 ## SOP ONLINE
 
 +++
