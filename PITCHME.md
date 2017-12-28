@@ -54,8 +54,9 @@ Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Log
 ![tampilan dashboard](/assets/images/02-tampilan-dashboard.png)
 
 ---
-### Tampilan Menu <span class="white">Opd</span>
-<span style="font-size:0.6em; color:gray">Menu <span class="white">Opd</span></span>
+## Tampilan Menu 
+## <span class="white">Opd</span>
+<span style="font-size:0.6em; color:gray">Tampilan <span class="white">Opd</span></span>
 @fa[arrow-down]
 +++
 ![tampilan dashboard](/assets/images/03-tampilan-opd.png)
