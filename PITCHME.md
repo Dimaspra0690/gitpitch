@@ -70,25 +70,33 @@ Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Log
 ## <span class="white">Workflow Setting</span>
 <span style="font-size:0.6em; color:gray">Tampilan <span class="white">Workflows</span></span>
 @fa[arrow-down]
+
 +++
 ![tampilan workflows](/assets/images/05-tampilan-workflows.png)
+
 <span style="font-size:0.6em; color:gray">Tampilan <span class="white">State List</span></span>
 @fa[arrow-down]
 
 +++
 ![tampilan state list](/assets/images/06-tampilan-statelist.png)
 
+<span style="font-size:0.6em; color:gray">Tampilan <span class="white">Transition</span></span>
+@fa[arrow-down]
+
 +++
-### Tampilan Transition
 ![tampilan transition](/assets/images/07-tampilan-transition.png)
 
-+++
-### Tampilan Workflow Guard
-![tampilan dashboard](/assets/images/08-tampilan-workflow-guard.png)
+<span style="font-size:0.6em; color:gray">Tampilan <span class="white">Workflow Guard</span></span>
+@fa[arrow-down]
 
 +++
-### Tampilan Workflow Attachment
-![tampilan dashboard](/assets/images/09-tampilan-workflow-attachment.png)
+![tampilan guard](/assets/images/08-tampilan-workflow-guard.png)
+
+<span style="font-size:0.6em; color:gray">Tampilan <span class="white">Workflow Attachment</span></span>
+@fa[arrow-down]
+
++++
+![tampilan attachment](/assets/images/09-tampilan-workflow-attachment.png)
 
 ---
 ### Tampilan Workflow Content
