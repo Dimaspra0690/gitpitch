@@ -63,19 +63,24 @@ Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Log
 
 ---
 ### Tampilan Sop Online
-![tampilan dashboard](/assets/images/04-tampilan-sop-online.png)
+![tampilan sop online](/assets/images/04-tampilan-sop-online.png)
 
 ---
-### Tampilan Workflows
-![tampilan dashboard](/assets/images/05-tampilan-workflows.png)
+## Tampilan Menu 
+## <span class="white">Workflow Setting</span>
+<span style="font-size:0.6em; color:gray">Tampilan <span class="white">Workflows</span></span>
+@fa[arrow-down]
++++
+![tampilan workflows](/assets/images/05-tampilan-workflows.png)
+<span style="font-size:0.6em; color:gray">Tampilan <span class="white">State List</span></span>
+@fa[arrow-down]
 
 +++
-### Tampilan State
-![tampilan dashboard](/assets/images/06-tampilan-statelist.png)
+![tampilan state list](/assets/images/06-tampilan-statelist.png)
 
 +++
 ### Tampilan Transition
-![tampilan dashboard](/assets/images/07-tampilan-transition.png)
+![tampilan transition](/assets/images/07-tampilan-transition.png)
 
 +++
 ### Tampilan Workflow Guard
