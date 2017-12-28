@@ -47,7 +47,8 @@ Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Log
 
 ## Tampilan Menu <span class="white">Dashboard</span>
 
-<span style="font-size:0.6em; color:white">Tampilan Dashboard</span> <span class="gold">Sop Online</span>
+##### <span style="font-size:0.6em; color:white">Tampilan Dashboard</span> 
+##### <span style="font-size:0.6em; color:gold">Sop Online</span> 
 @fa[arrow-down]
 +++
 ![tampilan dashboard](/assets/images/02-tampilan-dashboard.png)
