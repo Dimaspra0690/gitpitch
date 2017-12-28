@@ -46,7 +46,7 @@ Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Log
 @title[tampilan menu]
 
 ## Tampilan Menu <span class="white">Dashboard</span>
-<span style="font-size:0.6em; color:gray">Tampilan Home <span class="gold">YanKes</span></span>
+<span style="font-size:0.6em; color:gray">Menu <span class="white">Dashboard</span></span>
 @fa[arrow-down]
 
 +++
