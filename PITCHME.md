@@ -39,5 +39,61 @@ Maka pada layar akan tampak menu login situs Sop Online seperti dibawah ini.
 Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Login** atau tekan **Enter** pada keyboard.
 
 ---
+## Tampilan Dashboard
+![tampilan dashboard](/assets/images/02-tampilan-dashboard.png)
+
++++
+## Tampilan Opd
+![tampilan dashboard](/assets/images/03-tampilan-opd.png)
+
++++
+## Tampilan Sop Online
+![tampilan dashboard](/assets/images/04-tampilan-sop-online.png)
+
++++
+## Tampilan Workflows
+![tampilan dashboard](/assets/images/05-tampilan-workflows.png)
+
+---
+## Tampilan State
+![tampilan dashboard](/assets/images/06-tampilan-statelist.png)
+
++++
+## Tampilan Transition
+![tampilan dashboard](/assets/images/07-tampilan-transition.png)
+
++++
+## Tampilan Workflow Guard
+![tampilan dashboard](/assets/images/08-tampilan-workflow-guard.png)
+
++++
+## Tampilan Workflow Attachment
+![tampilan dashboard](/assets/images/09-tampilan-workflow-attachment.png)
+
+---
+## Tampilan Workflow Content
+![tampilan dashboard](/assets/images/10-tampilan-workflow-content.png)
+
++++
+## Tampilan Workflow History
+![tampilan dashboard](/assets/images/11-tampilan-workflow-history.png)
+
++++
+## Tampilan User
+![tampilan dashboard](/assets/images/12-tampilan-user.png)
+
++++
+## Tampilan Permission
+![tampilan dashboard](/assets/images/13-tampilan-permission.png)
+
+---
+## Tampilan Role
+![tampilan dashboard](/assets/images/14-tampilan-role.png)
+
++++
+## Tampilan Laporan
+![tampilan dashboard](/assets/images/15-tampilan-laporan.png)
+
+---
 
 ## TERIMAKASIH
