@@ -43,6 +43,7 @@ Maka pada layar akan tampak menu login situs Sop Online seperti dibawah ini.
 Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Login** atau tekan **Enter** pada keyboard.
 
 ---
+
 @title[tampilan menu]
 
 ## Tampilan Menu <span class="white">Dashboard</span>
@@ -53,7 +54,10 @@ Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Log
 ![tampilan dashboard](/assets/images/02-tampilan-dashboard.png)
 
 ---
-### Tampilan Opd
+### Tampilan Menu <span class="white">Opd</span>
+<span style="font-size:0.6em; color:gray">Menu <span class="white">Opd</span></span>
+@fa[arrow-down]
++++
 ![tampilan dashboard](/assets/images/03-tampilan-opd.png)
 
 ---
