@@ -7,7 +7,7 @@
 ## <span class="white">SOP ONLINE</span>
 
 +++
-#### Sop Online <span class="gold">(Standart Operasional Prosedur)</span> adalah aplikasi yang berbasis web yang akan dipakai oleh Pemprov Banten agar dapat mengetahui data atau informasi dari setiap Organisasi Perangkat Daerah (OPD) yang terdapat di Provinsi Banten.
+Sop Online <span class="gold">(Standart Operasional Prosedur)</span> adalah aplikasi yang berbasis web yang akan dipakai oleh Pemprov Banten agar dapat mengetahui data atau informasi dari setiap Organisasi Perangkat Daerah (OPD) yang terdapat di Provinsi Banten.
 
 ---
 ## TUJUAN
@@ -50,11 +50,12 @@ Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Log
 ## Tampilan Sop Online
 ![tampilan dashboard](/assets/images/04-tampilan-sop-online.png)
 
-+++
+
+---
 ## Tampilan Workflows
 ![tampilan dashboard](/assets/images/05-tampilan-workflows.png)
 
----
++++
 ## Tampilan State
 ![tampilan dashboard](/assets/images/06-tampilan-statelist.png)
 
