@@ -42,11 +42,11 @@ Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Log
 ### Tampilan Dashboard
 ![tampilan dashboard](/assets/images/02-tampilan-dashboard.png)
 
-+++
+---
 ### Tampilan Opd
 ![tampilan dashboard](/assets/images/03-tampilan-opd.png)
 
-+++
+---
 ### Tampilan Sop Online
 ![tampilan dashboard](/assets/images/04-tampilan-sop-online.png)
 
