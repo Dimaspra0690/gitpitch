@@ -4,7 +4,7 @@
 ---
 
 ## <span class="gold">PENGERTIAN</span>
-## <span class="white">SOP ONLINE</span>
+## <span class="gray">SOP ONLINE</span>
 
 +++
 Sop Online <span class="gold">(Standart Operasional Prosedur)</span> adalah aplikasi yang berbasis web yang akan dipakai oleh Pemprov Banten agar dapat mengetahui data atau informasi dari setiap Organisasi Perangkat Daerah (OPD) yang terdapat di Provinsi Banten.
@@ -39,60 +39,59 @@ Maka pada layar akan tampak menu login situs Sop Online seperti dibawah ini.
 Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Login** atau tekan **Enter** pada keyboard.
 
 ---
-## Tampilan Dashboard
+### Tampilan Dashboard
 ![tampilan dashboard](/assets/images/02-tampilan-dashboard.png)
 
 +++
-## Tampilan Opd
+### Tampilan Opd
 ![tampilan dashboard](/assets/images/03-tampilan-opd.png)
 
 +++
-## Tampilan Sop Online
+### Tampilan Sop Online
 ![tampilan dashboard](/assets/images/04-tampilan-sop-online.png)
 
-
 ---
-## Tampilan Workflows
+### Tampilan Workflows
 ![tampilan dashboard](/assets/images/05-tampilan-workflows.png)
 
 +++
-## Tampilan State
+### Tampilan State
 ![tampilan dashboard](/assets/images/06-tampilan-statelist.png)
 
 +++
-## Tampilan Transition
+### Tampilan Transition
 ![tampilan dashboard](/assets/images/07-tampilan-transition.png)
 
 +++
-## Tampilan Workflow Guard
+### Tampilan Workflow Guard
 ![tampilan dashboard](/assets/images/08-tampilan-workflow-guard.png)
 
 +++
-## Tampilan Workflow Attachment
+### Tampilan Workflow Attachment
 ![tampilan dashboard](/assets/images/09-tampilan-workflow-attachment.png)
 
 ---
-## Tampilan Workflow Content
+### Tampilan Workflow Content
 ![tampilan dashboard](/assets/images/10-tampilan-workflow-content.png)
 
 +++
-## Tampilan Workflow History
+### Tampilan Workflow History
 ![tampilan dashboard](/assets/images/11-tampilan-workflow-history.png)
 
-+++
-## Tampilan User
+---
+### Tampilan User
 ![tampilan dashboard](/assets/images/12-tampilan-user.png)
 
 +++
-## Tampilan Permission
+### Tampilan Permission
 ![tampilan dashboard](/assets/images/13-tampilan-permission.png)
 
----
-## Tampilan Role
++++
+### Tampilan Role
 ![tampilan dashboard](/assets/images/14-tampilan-role.png)
 
-+++
-## Tampilan Laporan
+---
+### Tampilan Laporan
 ![tampilan dashboard](/assets/images/15-tampilan-laporan.png)
 
 ---
