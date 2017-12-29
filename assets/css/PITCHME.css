@@ -26,14 +26,27 @@ body {
   box-shadow : none;
 }
 
+.reveal h1 {
+    font-size: 3.77em;
+}
+
+.reveal h1 {
+  
+    margin: 0 0 20px 0;
+    color : #e0af62;
+    font-family: "Courier New", Impact, sans-serif;
+    background: radial-gradient(circle, darken(dodgerblue, 10%), #1f4f96, #1b2949, #000);
+
+}
+
 .reveal h2 {
     font-size: 2.11em;
 }
 
-.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+.reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
     margin: 0 0 20px 0;
     color : #e0af62;
-    font-family: "Courier New", Impact, sans-serif;;
+    font-family: "Courier New", Impact, sans-serif;
     font-weight: bold;
     line-height: 1.2;
     letter-spacing: -0.03em;
