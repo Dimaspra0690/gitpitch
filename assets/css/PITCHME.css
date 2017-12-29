@@ -35,7 +35,6 @@ body {
     margin: 0 0 20px 0;
     color : #e0af62;
     font-family: "Courier New", Impact, sans-serif;
-    text-shadow: 4px 0 10px hsla(0, 0%, 0%, .13);
 }
 
 .reveal h2 {
