@@ -30,7 +30,7 @@ body {
     font-size: 2.11em;
 }
 
-.reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
     margin: 0 0 20px 0;
     color : #e0af62;
     font-family: "Courier New", Impact, sans-serif;
@@ -42,25 +42,7 @@ body {
     word-wrap: break-word;
 }
 
-.reveal h1 {
-    font-size: 3.77em;
-}
-
-.reveal h1 {
-  
-    margin: 0 0 20px 0;
-    color : #e0af62;
-    font-family: "Courier New", Impact, sans-serif;
-    font-weight: bold;
-    line-height: 1.2;
-    letter-spacing: -0.03em;
-    text-transform: none;
-    text-shadow: none;
-    word-wrap: break-word;
-  
-}
-
-.reveal pre code {
+ .reveal pre code {
   font-size: 1.2em;
   line-height: 1.2;
   max-height: 50vh !important;
