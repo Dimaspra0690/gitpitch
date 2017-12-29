@@ -35,15 +35,7 @@ body {
     margin: 0 0 20px 0;
     color : #e0af62;
     font-family: "Courier New", Impact, sans-serif;
-    border:0;
-    border-bottom:solid 1px #2f2f2f;
-          background:transparent;
-          color:#fff;
-          text-align:center;
-          margin-top:20px;
-          font-size:20px;
-          letter-spacing: 5px;
-          font-weight:100;
+    background:transparent;
     text-shadow: 4px 0 10px hsla(0, 0%, 0%, .13);
 }
 
