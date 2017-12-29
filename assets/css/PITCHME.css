@@ -33,8 +33,23 @@ body {
 .reveal h1 {
   
     margin: 0 0 20px 0;
-    color : #e0af62;
     font-family: "Courier New", Impact, sans-serif;
+    position: absolute;
+    height: 100%;
+    width: 2000px;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    -webkit-text-fill-color: #e0af62;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    left: 50%;
+    transform: translate(-50%);
+    letter-spacing: 10px;
+    opacity:0;
+  
 }
 
 .reveal h2 {
