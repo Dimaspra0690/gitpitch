@@ -34,8 +34,8 @@ body {
     line-height: 1.2;
     letter-spacing: -0.03em;
     text-transform: none;
-    text-shadow: none;
-    word-wrap: break-word;
+/*     text-shadow: none;
+    word-wrap: break-word; */
     -webkit-text-fill-color: gold;
     -webkit-text-stroke-width: 3px;
     -webkit-text-stroke-color: black;
