@@ -38,7 +38,7 @@ body {
     word-wrap: break-word;
     -webkit-text-fill-color: gold;
     -webkit-text-stroke-width: 3px;
-    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-color: black;
 }
 
 .reveal h2 {
