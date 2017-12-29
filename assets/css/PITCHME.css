@@ -36,9 +36,9 @@ body {
     text-transform: none;
 /*     text-shadow: none;
     word-wrap: break-word; */
-    -webkit-text-fill-color: black;
+    -webkit-text-fill-color: #e0af62;
     -webkit-text-stroke-width: 3px;
-    -webkit-text-stroke-color: gold;
+    -webkit-text-stroke-color: black;
 }
 
 .reveal h2 {
