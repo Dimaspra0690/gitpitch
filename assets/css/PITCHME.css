@@ -34,8 +34,8 @@ body {
     line-height: 1.2;
     letter-spacing: -0.03em;
     text-transform: none;
-    display: flex;
-    flex-direction: column;
+/*     display: flex;
+    flex-direction: column; */
     text-shadow: none;
 /*     text-shadow: 0 1px 0 #ccc,
                  0 2px 0 #c9c9c9,
@@ -51,7 +51,7 @@ body {
                  0 20px 20px rgba(0,0,0,.15); */
     -webkit-text-fill-color: #e0af62;
     -webkit-text-stroke-width: 3px;
-    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-color: #ffffff;
 }
 
 .reveal h2 {
