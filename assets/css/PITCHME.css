@@ -51,7 +51,7 @@ body {
                  0 20px 20px rgba(0,0,0,.15); */
     -webkit-text-fill-color: #e0af62;
     -webkit-text-stroke-width: 1.5px;
-    -webkit-text-stroke-color: gray;
+    -webkit-text-stroke-color: black;
 }
 
 .reveal h2 {
