@@ -16,7 +16,7 @@ Sop Online (Standart Operasional Prosedur) adalah aplikasi yang berbasis web yan
 +++
 Aplikasi Sop Online ini dibuat untuk :
 
-- Pedoman yang berisi prosedur-prosedur operasioanl standar yang ada dalam suatu instansi.|
+- Pedoman yang berisi prosedur-prosedur operasional standar yang ada dalam suatu instansi.|
 - Memastikan bahwa semua keputusan dan tindakan yang dilakukan oleh orang-orang dalam instansi berjalan dengan efisien dan efektif, konsisten, standar dan sistematis.|
 
 ---
