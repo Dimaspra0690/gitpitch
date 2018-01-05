@@ -6,15 +6,15 @@
 
 ---
 
-### Pengertian Aplikasi
-### <span class="white">Sop Online</span>
+## Pengertian Aplikasi
+## <span class="white">Sop Online</span>
 
 +++
 Sop Online (Standart Operasional Prosedur) adalah aplikasi yang berbasis web yang akan dipakai oleh Pemprov Banten agar dapat mengetahui data atau informasi dari setiap Organisasi Perangkat Daerah (OPD) yang terdapat di Provinsi Banten.
 
 ---
-### Tujuan Pengembangan
-### <span class="white">Sop Online</span>
+## Tujuan Pengembangan
+## <span class="white">Sop Online</span>
 
 +++
 Aplikasi Sop Online ini dibuat untuk :
