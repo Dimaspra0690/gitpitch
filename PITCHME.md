@@ -157,8 +157,8 @@ Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Log
 
 ---
 
-# SEKIAN
+# TERIMAKASIH
 +++
-# Dinas <span class="gold">KominfoST</span>
+# Dinas <span class="white">KominfoST</span>
 # &
-# Banten<span class="gold">Prov</span>
+# Banten<span class="white">Prov</span>
