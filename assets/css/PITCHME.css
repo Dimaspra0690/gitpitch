@@ -42,12 +42,15 @@ body {
 
 .reveal h2 {
     font-size: 2.11em;
+    -webkit-text-fill-color: #e0af62;
+    -webkit-text-stroke-width: 2.5px;
+    -webkit-text-stroke-color: black;
 }
 
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
     margin: 0 0 20px 0;
     color : #e0af62;
-    font-family: "Courier New", Impact, sans-serif;
+    font-family: "Montserrat", Impact, sans-serif;
     font-weight: bold;
     line-height: 1.2;
     letter-spacing: -0.03em;
