@@ -107,10 +107,15 @@ Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Log
 ![tampilan attachment](/assets/images/09-tampilan-workflow-attachment.png)
 
 ---
-### Tampilan Workflow Content
-![tampilan dashboard](/assets/images/10-tampilan-workflow-content.png)
 
+## Tampilan Menu 
+## <span class="white">Workflow Content</span>
+<span style="font-size:0.6em; color:gray">Tampilan <span class="white">Workflow Content</span></span>
+@fa[arrow-down]
 +++
+![tampilan workflow content](/assets/images/10-tampilan-workflow-content.png)
+
+---
 ### Tampilan Workflow History
 ![tampilan dashboard](/assets/images/11-tampilan-workflow-history.png)
 
