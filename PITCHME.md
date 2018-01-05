@@ -1,6 +1,8 @@
+@title[Cover]
+
 # Dinas KominfoST
-### SOP ONLINE 
-#### (<span class="white">Standart Operasional Prosedur Online</span>)
+## SOP ONLINE 
+### (<span class="white">Standart Operasional Prosedur Online</span>)
 
 ---
 
