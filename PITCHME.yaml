@@ -4,7 +4,7 @@ logo : assets/images/logo-banten.png
 highlight : atom-one-light
 transition : entrance
 published : true
-footnote : "© 2017 All Rights Reserved."
+footnote : "© 2018 BantenProv."
 remote-control: true
 slide-number : true
 background : /assets/images/background.jpg
