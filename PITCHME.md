@@ -116,24 +116,44 @@ Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Log
 ![tampilan workflow content](/assets/images/10-tampilan-workflow-content.png)
 
 ---
-### Tampilan Workflow History
-![tampilan dashboard](/assets/images/11-tampilan-workflow-history.png)
+## Tampilan Menu 
+## <span class="white">Workflow History</span>
+<span style="font-size:0.6em; color:gray">Tampilan <span class="white">Workflow History</span></span>
+@fa[arrow-down]
++++
+![tampilan history](/assets/images/11-tampilan-workflow-history.png)
 
 ---
-### Tampilan User
-![tampilan dashboard](/assets/images/12-tampilan-user.png)
-
+## Tampilan Menu 
+## <span class="white">User</span>
+<span style="font-size:0.6em; color:gray">Tampilan <span class="white">User</span></span>
+@fa[arrow-down]
 +++
-### Tampilan Permission
-![tampilan dashboard](/assets/images/13-tampilan-permission.png)
-
-+++
-### Tampilan Role
-![tampilan dashboard](/assets/images/14-tampilan-role.png)
+![tampilan user](/assets/images/12-tampilan-user.png)
 
 ---
-### Tampilan Laporan
-![tampilan dashboard](/assets/images/15-tampilan-laporan.png)
+## Tampilan Menu 
+## <span class="white">Permission</span>
+<span style="font-size:0.6em; color:gray">Tampilan <span class="white">Permission</span></span>
+@fa[arrow-down]
++++
+![tampilan permission](/assets/images/13-tampilan-permission.png)
+
+---
+## Tampilan Menu 
+## <span class="white">Role</span>
+<span style="font-size:0.6em; color:gray">Tampilan <span class="white">Role</span></span>
+@fa[arrow-down]
++++
+![tampilan role](/assets/images/14-tampilan-role.png)
+
+---
+## Tampilan Menu 
+## <span class="white">Laporan</span>
+<span style="font-size:0.6em; color:gray">Tampilan <span class="white">Laporan</span></span>
+@fa[arrow-down]
++++
+![tampilan laporan](/assets/images/15-tampilan-laporan.png)
 
 ---
 
