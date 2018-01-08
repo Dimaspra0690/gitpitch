@@ -28,7 +28,7 @@ Aplikasi Sop Online ini dibuat untuk :
 
 +++
 Untuk memulai akses terhadap aplikasi *Standart Operation Prosedur Online* **(Sop Online)** ini: 
-- Buka melalui web browser (IE, Mozila Firefox atau yang lainnya) dengan alamat url sebagai berikut : http://sop-online-01.dev.bantenprov.go.id/.
+- Buka melalui web browser (IE, Mozila Firefox atau yang lainnya) dengan alamat url sebagai berikut : http://sop-online-01.dev.bantenprov.go.id/.
 +++
 Menu Login Sop Online seperti dibawah ini.
 
@@ -151,8 +151,6 @@ Menu Login Sop Online seperti dibawah ini.
 
 ---
 
-## TERIMAKASIH
-+++
-## Dinas <span class="white">KominfoST</span>
-## &
-## Banten<span class="white">Prov</span>
+### SEKIAN
+## Dinas <span class="gold">KominfoST</span>
+#### Seksi Pengembangan Aplikasi Informatika.*
