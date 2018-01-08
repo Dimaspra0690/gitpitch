@@ -40,9 +40,6 @@ Menu Login Sop Online seperti dibawah ini.
 
 ![tampilan login](/assets/images/01-login.png)
 
-+++
-Masukan Email Id dan Password, setelah dimasukan dengan benar, klik tombol **Login** atau tekan **Enter** pada keyboard.
-
 ---
 
 @title[tampilan menu]
